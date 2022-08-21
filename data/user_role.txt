@@ -1,0 +1,6 @@
+userid,role
+aapple2,customer
+ccherry4,customer
+kroger1,manager
+fly3,pilot
+admin,admin
